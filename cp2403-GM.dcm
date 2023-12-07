@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP2403-GM
+D CP2403-GM SiLabs LCD interface I2C
+K LCD Display interface I2C
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,598 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1206B33-M3T1G_SOT23
+D 400mA Low drop-out regulator, Fixed Output 3.3V, SOT-223
+K REGULATOR LDO 3.3V
+$ENDCMP
+#
+$CMP 2N5060
+D SCR 0.8A 30V TO-92
+K 2N5060-ND
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5060_SERIES.PDF
+$ENDCMP
+#
+$CMP 74AHC1G04
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHC1G04_copy
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHC1G08
+D Single AND Gate, Low-Voltage CMOS
+K Single Gate AND LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHC1GU04
+D 74AHC1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHC1GU04_copy
+D 74AHC1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHC2G00
+D Dual NAND Gate, High-speed Si-gate CMOS
+K Dual Gate NAND LVC CMOS
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT2G00.pdf
+$ENDCMP
+#
+$CMP 74AHCT1G04
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHCT1G04_copy
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHCT1G08
+D Single AND Gate, Low-Voltage CMOS
+K Single Gate AND LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHCT1GU04
+D 74AHCT1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHCT1GU04_copy
+D 74AHCT1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AHCT2G00
+D Dual NAND Gate, TTL input High-speed Si-gate CMOS
+K Dual Gate NAND LVC CMOS
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT2G00.pdf
+$ENDCMP
+#
+$CMP 74AUC1G04
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC1G04_copy
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC1G08
+D Single AND Gate, Low-Voltage CMOS
+K Single Gate AND LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC1GU04
+D 74AUC1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC1GU04_copy
+D 74AUC1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC2G00
+D Dual NAND Gate, Low-Voltage CMOS
+K Dual Gate NAND LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC2G04
+D Dual NOT Gate, Low-Voltage CMOS
+K Dual Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC2G08
+D Dual AND Gate, Low-Voltage CMOS
+K Dual Gate AND LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC2G86
+D Dual EX-OR Gate, Low-Voltage CMOS
+K Dual Gate EX-OR LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC2GU04
+D 74AUC2G04, Dual NOT Gate, Low-Voltage CMOS
+K Dual Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1G04
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1G04_copy
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1G08
+D Single AND Gate, Low-Voltage CMOS
+K Single Gate AND LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1GU04
+D 74AUP1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1GU04_copy
+D 74AUP1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC1G04
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC1G04_copy
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC1G08
+D Single AND Gate, Low-Voltage CMOS
+K Single Gate AND LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC1GU04
+D 74LVC1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC1GU04_copy
+D 74LVC1G04, Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC2G00
+D Dual NAND Gate, Low-Voltage CMOS
+K Dual Gate NAND LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC2G04
+D Dual NOT Gate, Low-Voltage CMOS
+K Dual Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC2G08
+D Dual AND Gate, Low-Voltage CMOS
+K Dual Gate AND LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC2G14
+D Dual NOT Gate Schmitt Triggered, Low-Voltage CMOS
+K Dual Gate NOT Schmitt LVC CMOS
+F https://www.ti.com/lit/ds/symlink/sn74lvc2g14.pdf
+$ENDCMP
+#
+$CMP 74LVC2G86
+D Dual EX-OR Gate, Low-Voltage CMOS
+K Dual Gate EX-OR LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC2GU04
+D 74LVC2G04, Dual NOT Gate, Low-Voltage CMOS
+K Dual Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP ADA4807-4
+D Quad Rail-to-Rail Input/Output Amplifiers, TSSOP-14
+K quad opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf
+$ENDCMP
+#
+$CMP AO3401A
+D MOSFET P-CH 30V 4A SOT23
+K 785-1001-1-ND
+F http://aosmd.com/res/data_sheets/AO3401A.pdf
+$ENDCMP
+#
+$CMP AP7361C-10E
+D 1A Low Dropout regulator, positive, 1.0V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
+$CMP AP7361C-12E
+D 1A Low Dropout regulator, positive, 1.2V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
+$CMP AP7361C-15E
+D 1A Low Dropout regulator, positive, 1.5V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
+$CMP AP7361C-18E
+D 1A Low Dropout regulator, positive, 1.8V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
+$CMP AP7361C-25E
+D 1A Low Dropout regulator, positive, 2.5V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
+$CMP AP7361C-28E
+D 1A Low Dropout regulator, positive, 2.8V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
+$CMP AP7361C-33E
+D 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
+$CMP DMG3401
+D MOSFET P-CH 30V 4A SOT23
+K 785-1001-1-ND
+F http://aosmd.com/res/data_sheets/AO3401A.pdf
+$ENDCMP
+#
+$CMP FDV303N
+D FDV303N N-Channel MOSFET, 680 mA, 25 V, 3-Pin SOT-23 ON Semiconductor
+F https://www.onsemi.com/pub/Collateral/FDV303N-D.PDF
+$ENDCMP
+#
+$CMP LM2621
+D Low Input Voltage3 DC-DC Boost Regulator
+K Boost Voltage Regulator 14V
+F http://www.ti.com/lit/ds/symlink/lm2623.pdf
+$ENDCMP
+#
+$CMP LM2623
+D General Purpose DC-DC Boost Regulator
+K Boost Voltage Regulator 14V
+F http://www.ti.com/lit/ds/symlink/lm2623.pdf
+$ENDCMP
+#
+$CMP LM2902
+D Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lm2902-n.pdf
+$ENDCMP
+#
+$CMP LM2903DR
+D IC DUAL DIFF COMP 8-SOIC
+K 296-1012-1-ND
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm193
+$ENDCMP
+#
+$CMP LM2937xMP
+D 500-mA Low Dropout Regulator, SOT-223
+K Voltage Regulator Low Dropuout Positive LDO
+F http://www.ti.com/lit/ds/symlink/lm2937.pdf
+$ENDCMP
+#
+$CMP LM324
+D Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lm2902-n.pdf
+$ENDCMP
+#
+$CMP LM324A
+D Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lm2902-n.pdf
+$ENDCMP
+#
+$CMP LM393
+D Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/SSOP-8
+K dual comparator
+F http://www.ti.com/lit/ds/symlink/lm393-n.pdf
+$ENDCMP
+#
+$CMP LMC6484
+D Quad CMOS Rail-to-Rail Input and Output Operational Amplifier, DIP-14/SOIC-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lmc6484.pdf
+$ENDCMP
+#
+$CMP LMV324
+D Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lmv324.pdf
+$ENDCMP
+#
+$CMP LMV393
+D Dual General-Purpose Low-Voltage Comparator, SOIC-8/TSSOP-8/VSSOP-8
+K dual comparator
+F http://www.ti.com/lit/ds/symlink/lmv331.pdf
+$ENDCMP
+#
+$CMP LT1129-3.3_SOT223
+D 700mA Micropower Low drop-out regulator, Fixed Output 3.3V, SOT-223
+K REGULATOR LDO fixed positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf
+$ENDCMP
+#
+$CMP LT1129-5.0_SOT223
+D 700mA Micropower Low drop-out regulator, Fixed Output 5.0V, SOT-223
+K REGULATOR LDO Fixed Positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf
+$ENDCMP
+#
+$CMP M50-3930542
+D connector, single row, 90 degree,01x05
+K connector
+F ~
+$ENDCMP
+#
+$CMP MC33079
+D Low Noise, Quad Operational Amplifiers, DIP-14/SOIC-14
+K quad opamp
+F https://www.onsemi.com/pub/Collateral/MC33078-D.PDF
+$ENDCMP
+#
+$CMP MC33174
+D Quad Single Supply 3.0V to 44V, Low Power Operational Amplifiers, DIP-14/SOIC-14/TSSOP-14
+K quad opamp
+F http://www.onsemi.com/pub/Collateral/MC33171-D.PDF
+$ENDCMP
+#
+$CMP MC33179
+D Quad Low Power, Low Noise Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F https://www.onsemi.com/pub/Collateral/MC33178-D.PDF
+$ENDCMP
+#
+$CMP MCP1802x-xx02xOT
+D 150mA, Tiny CMOS LDO With Shutdown, Fixed Voltage, SOT-23-5
+K LDO Linear Voltage Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22053C.pdf
+$ENDCMP
+#
+$CMP MCP1812Bx-xxxOT
+D 150mA, Tiny CMOS LDO With Shutdown, SOT-23-5
+K LDO Linear Voltage Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21813F.pdf
+$ENDCMP
+#
+$CMP MCP6004
+D 1MHz, Low-Power Op Amp, DIP-14/SOIC-14/TSSOP-14
+K quad opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP604
+D Quad 2.7V to 6.0V Single Supply CMOS Op Amps, DIP-14/SOIC-14/TSSOP-14
+K quad opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf
+$ENDCMP
+#
+$CMP MCP6562
+D Dual 1.8V Low-Power Push-Pull Output Comparator, SOIC-8/MSOP-8
+K dual comparator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22139C.pdf
+$ENDCMP
+#
+$CMP MCP6567
+D Dual 1.8V Low-Power Push-Pull Output Comparator, SOIC-8/MSOP-8
+K dual comparator
+F http://www.farnell.com/datasheets/2133492.pdf
+$ENDCMP
+#
+$CMP MCP6L94
+D 10 MHz, 850 µA Op Amps, SOIC-14/TSSOP-14
+K quad opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf
+$ENDCMP
+#
+$CMP OPA1604
+D Quad SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-14/TSSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/opa1604.pdf
+$ENDCMP
+#
+$CMP OPA1679
+D Low-Distortion Audio Operational Amplifiers, SOIC-14/TSSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/opa1678.pdf
+$ENDCMP
+#
+$CMP OPA4134
+D Quad SoundPlus High Performance Audio Operational Amplifiers, SOIC-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP OPA4340UA
+D Quad Single-Supply, Rail-to-Rail Operational Amplifier, MicroAmplifier Series, SOIC-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/opa340.pdf
+$ENDCMP
+#
+$CMP OPA4376
+D Quad Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SC-70-5
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP PCF8566T
+D Universal LCD Driver, low multiplex rates 40 pin SOT158-1
+F https://www.mouser.com/datasheet/2/302/PCF8566-1127764.pdf
+$ENDCMP
+#
+$CMP PIC16F15323-IP
+D 2048W FLASH, 128B SRAM, PDIP-14
+K FLASH-Based 8-Bit CMOS Microcontroller Low Power
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41607A.pdf
+$ENDCMP
+#
+$CMP PIC16F15323-ISL
+D PIC16F15323, 2048W FLASH, 128B SRAM, SO-14
+K FLASH-Based 8-Bit CMOS Microcontroller Low Power
+$ENDCMP
+#
+$CMP PIC16F15323-ISL_copy
+D PIC16F15323, 2048W FLASH, 128B SRAM, SO-14
+K FLASH-Based 8-Bit CMOS Microcontroller Low Power
+$ENDCMP
+#
+$CMP PIC16F15323-IST
+D PIC16F1503, 2048W FLASH, 128B SRAM, TSSOP-14
+K FLASH-Based 8-Bit CMOS Microcontroller Low Power
+$ENDCMP
+#
+$CMP PIC16F15323-IST_copy
+D PIC16F1503, 2048W FLASH, 128B SRAM, TSSOP-14
+K FLASH-Based 8-Bit CMOS Microcontroller Low Power
+$ENDCMP
+#
+$CMP PIC16LF15323-IP
+D 2048W FLASH, 128B SRAM, PDIP-14
+K FLASH-Based 8-Bit CMOS Microcontroller Low Power
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41607A.pdf
+$ENDCMP
+#
+$CMP PIC18F13K22-I_SS
+D MCU 8K Flash 256 EEPROM 256 RAM SSOP20
+F http://docs-emea.rs-online.com/webdocs/0cf2/0900766b80cf24fb.pdf
+$ENDCMP
+#
+$CMP SMTL4-RGY
+D RGB LED, Common anode /red/green/yellow
+K LED RGB diode
+F ~
+$ENDCMP
+#
+$CMP SN74LVC1G74DCUR
+D SINGLE POSITIVE-EDGE-TRIGGERED D-TYPE FLIP-FLOP WITH CLEAR AND PRESET
+F http://www.ti.com/lit/gpn/sn74lvc1g74
+$ENDCMP
+#
+$CMP SPX2920M3-5.0_SOT223
+D 400mA Low drop-out regulator, Fixed Output 5V, SOT-223
+K REGULATOR LDO 5V
+F http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf
+$ENDCMP
+#
+$CMP SSCDRRN005
+D Pressure sensor, DIP
+K single timer
+$ENDCMP
+#
+$CMP TL064
+D Quad Low-Power JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tl061.pdf
+$ENDCMP
+#
+$CMP TL074
+D Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tl071.pdf
+$ENDCMP
+#
+$CMP TL084
+D Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tl081.pdf
+$ENDCMP
+#
+$CMP TLC274
+D Quad LinCMOS Precision Quad Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tlc274.pdf
+$ENDCMP
+#
+$CMP TLC279
+D Quad LinCMOS Precision Quad Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tlc274.pdf
+$ENDCMP
+#
+$CMP TLV3012
+K dual comparator
+F https://www.ti.com/lit/ds/symlink/tlv3012.pdf?&ts=1589131189675
+$ENDCMP
+#
+$CMP TLV431BFTA
+D 1.24V Shunt Regulator
+K TLV431A Regulator 1.24V
+F https://www.mouser.com/datasheet/2/115/TLV431-527179.pdf
+$ENDCMP
+#
+$CMP TSV914
+D Quad rail-to-rail input/output 8 MHz operational amplifiers, SOIC-14/TSSOP-14
+K quad opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP TSV994
+D Quad Rail-to-rail, 20 MHz GBP, operational amplifiers, SOIC-14/TSSOP-14
+K quad opamp
+F https://www.st.com/resource/en/datasheet/tsv994.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Heat_Index_Disp
+D 4 digit 7 segment super bright red LED, common anode
+K 4 digit 7 segment super bright red LED, common anode
+F http://www.kingbrightusa.com/images/catalog/SPEC/CA56-12SRWA.pdf
+$ENDCMP
+#
+$CMP Heat_Index_Display
+D Three digit LCD with special symbols - custom part
+K LCD Heat_Index
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EFM8SxQFN24
+D P89LPC932A1FA, 8kB Flash, 256 SRAM, 8bit MCS51 2-cycle Core Microcontroller, PLCC-28
+K Philips 8051 Turbo Core
+F http://www.nxp.com/documents/data_sheet/P89LPC932A1.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EFM8SB20F64
+D 8KB ROM, 256B RAM, 8-bit CMOS High Performace Single-Chip Microcontroller, PMQFP-80
+K CMOS MCU 8-bit
+F http://pdf.datasheetcatalog.com/datasheet/infineon/1-d80515.pdf
+$ENDCMP
+#
+$CMP EFM8SxQFN24
+D EFM8SxQFN24 8 bit 8051 processor
+K SiLabs EFM8 8051
+$ENDCMP
+#
+$CMP SAB80C515-M
+D 8KB ROM, 256B RAM, 8-bit CMOS High Performace Single-Chip Microcontroller, PMQFP-80
+K CMOS MCU 8-bit
+F http://pdf.datasheetcatalog.com/datasheet/infineon/1-d80515.pdf
+$ENDCMP
+#
+$CMP SAB80C535-M
+D 8KB ROM, 256B RAM, 8-bit CMOS High Performace Single-Chip Microcontroller, PMQFP-80
+K CMOS MCU 8-bit
+F http://pdf.datasheetcatalog.com/datasheet/infineon/1-d80515.pdf
+$ENDCMP
+#
+#End Doc Library
